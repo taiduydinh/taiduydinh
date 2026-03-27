@@ -23,8 +23,8 @@ Software
   <img alt="Zotero" src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats-one-henna-45.vercel.app/api?username=clarkdinh&show_icons=true&theme=tokyonight&v=5" />
-  <img height="170" src="https://github-readme-stats-one-henna-45.vercel.app/api/top-langs?username=clarkdinh&layout=donut&theme=tokyonight&v=5" />
+  <img height="170" src="https://github-readme-stats-one-henna-45.vercel.app/api?username=taiduydinh&show_icons=true&theme=tokyonight&v=5" />
+  <img height="170" src="https://github-readme-stats-one-henna-45.vercel.app/api/top-langs?username=taiduydinh&layout=donut&theme=tokyonight&v=5" />
 </p>
 
 
